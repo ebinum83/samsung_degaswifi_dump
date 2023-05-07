@@ -1,0 +1,19 @@
+## degaswifixx-user 4.4.2 KOT49H T230XXU0AOD2 release-keys
+- Manufacturer: samsung
+- Platform: mrvl
+- Codename: degaswifi
+- Brand: samsung
+- Flavor: user
+- Release Version: 4.4.2
+- Kernel Version: 
+- Id: KOT49H
+- Incremental: T230XXU0AOD2
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Locale: undefined
+- Screen Density: 213
+- Fingerprint: samsung/degaswifixx/degaswifi:4.4.2/KOT49H/T230XXU0AOD2:user/release-keys
+- OTA version: 
+- Branch: degaswifixx-user-4.4.2-KOT49H-T230XXU0AOD2-release-keys
+- Repo: samsung_degaswifi_dump

@@ -1,0 +1,61 @@
+# All blobs from degaswifixx-user 4.4.2 KOT49H T230XXU0AOD2 release-keys, unless pinned
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor.so
+
+# Bluetooth-AptX
+lib/libbt-aptx-4.0.3.so
+lib/libbt-codec_aptx.so
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/mrvl/bt_cal_data.conf
+etc/firmware/mrvl/bt_init_cfg.conf
+etc/firmware/mrvl/reg_alpha2
+etc/firmware/mrvl/sd8887_uapsta.bin
+etc/firmware/mrvl/SDIO8887_SDIO_SDIO.bin
+etc/firmware/mrvl/txpwrlimit_cfg.bin
+etc/firmware/mrvl/WlanCalData_ext.conf
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Lights
+vendor/lib/hw/lights.mrvl.so
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libWVStreamControlAPI_L3.so

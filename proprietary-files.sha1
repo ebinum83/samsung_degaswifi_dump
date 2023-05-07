@@ -1,0 +1,61 @@
+# All blobs are from "degaswifixx-user 4.4.2 KOT49H T230XXU0AOD2 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor.so|dccdfe91d026c54bfa6e8cf70ae6171c93b9046f
+
+# Bluetooth-AptX
+lib/libbt-aptx-4.0.3.so|088467380f982c0d49159e4c1a9be875a33d0c7c
+lib/libbt-codec_aptx.so|38bcc1721adb5184655f652a2ce4e4d073f159f7
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libwvdrmengine.so|f4772a54976a8e9d06c41bc41ea19f76aeef5597
+
+# Display-Hardware
+
+# Firmware
+etc/firmware/mrvl/bt_cal_data.conf|c4079d4c20886653bc0f5b98fcc7ece1b7ec01d4
+etc/firmware/mrvl/bt_init_cfg.conf|8d194b2db75e4dd196b3cb173854ef5c4c0f6fb6
+etc/firmware/mrvl/reg_alpha2|07551018366a25c7424beef163a2249d2cedc4b7
+etc/firmware/mrvl/sd8887_uapsta.bin|ae033c838e760a8e6e63728adbed042bf4553c8d
+etc/firmware/mrvl/SDIO8887_SDIO_SDIO.bin|cf7bbf8870ddaa55c30aecc1e3f699069802bc39
+etc/firmware/mrvl/txpwrlimit_cfg.bin|7747cd4593ccaebe60b8109ba1c621f46ccc1d77
+etc/firmware/mrvl/WlanCalData_ext.conf|3d40c1d7e9a5130a23be1186bcccc3d66a957cd1
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Lights
+vendor/lib/hw/lights.mrvl.so|e00b9e14621f5d87018b6e2e8ab215eaae60ccc1
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/libwvdrm_L3.so|0d91b93333e80d06e07a1709940b3699476764cd
+vendor/lib/libWVStreamControlAPI_L3.so|cd5c87ac66ba628030a9f88df0de806c1bce2f34
